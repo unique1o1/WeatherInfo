@@ -21,5 +21,5 @@ Linux:
 
 
 		weather = get_weather('new york')
-		weather_info = weather.returnvalue() #weather.returnvalue() returns the weatherinfo
+		weather_info = weather.returnvalue() 
 		print(weather_info) 
